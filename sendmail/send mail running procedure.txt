@@ -1,0 +1,19 @@
+changes in php.ini file
+
+C:\wamp\bin\apache\apache2.2.8\bin --->put file in this path
+
+
+    smtp_port = 587
+    sendmail_path = "C:\wamp\sendmail\sendmail.exe"
+
+
+changes in sendmail.ini file
+
+
+     ; smtp port (normally 25)
+
+       smtp_port=587
+
+ 
+       auth_username=testmailalert123@gmail.com
+       auth_password=Shanmuga12345#

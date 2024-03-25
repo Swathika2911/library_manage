@@ -1,0 +1,252 @@
+21/10/27 20:34:07 ** --- MESSAGE BEGIN ---
+21/10/27 20:34:07 ** To: venkatguy19@gmail.com
+21/10/27 20:34:07 ** Subject: Test Email
+21/10/27 20:34:07 ** From: venkatcrs19@gmail.com
+21/10/27 20:34:07 ** 
+21/10/27 20:34:07 ** Hi this is a test email send by a php script
+21/10/27 20:34:07 ** --- MESSAGE END ---
+21/10/27 20:34:07 ** Connecting to smtp.gmail.com:587
+21/10/27 20:34:08 ** Connected.
+21/10/27 20:34:08 << 220 smtp.gmail.com ESMTP b6sm267117pfv.171 - gsmtp<EOL>
+21/10/27 20:34:08 >> EHLO Venkat-PC<EOL>
+21/10/27 20:34:08 << 250-smtp.gmail.com at your service, [157.49.77.240]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/10/27 20:34:08 ** Authenticating as venkatcrs19@gmail.com
+21/10/27 20:34:08 >> STARTTLS<EOL>
+21/10/27 20:34:09 << 220 2.0.0 Ready to start TLS<EOL>
+21/10/27 20:34:09 >> EHLO Venkat-PC<EOL>
+21/10/27 20:34:09 << 250-smtp.gmail.com at your service, [157.49.77.240]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/10/27 20:34:09 >> AUTH LOGIN<EOL>
+21/10/27 20:34:09 << 334 VXNlcm5hbWU6<EOL>
+21/10/27 20:34:09 >> dmVua2F0Y3JzMTlAZ21haWwuY29t<EOL>
+21/10/27 20:34:10 << 334 UGFzc3dvcmQ6<EOL>
+21/10/27 20:34:10 >> c2FyYXZhbmFuMDE=<EOL>
+21/10/27 20:34:10 << 235 2.7.0 Accepted<EOL>
+21/10/27 20:34:10 >> MAIL FROM: <venkatguy97@gmail.com><EOL>
+21/10/27 20:34:11 << 250 2.1.0 OK b6sm267117pfv.171 - gsmtp<EOL>
+21/10/27 20:34:11 >> RCPT TO: <venkatguy19@gmail.com><EOL>
+21/10/27 20:34:11 << 250 2.1.5 OK b6sm267117pfv.171 - gsmtp<EOL>
+21/10/27 20:34:11 >> DATA<EOL>
+21/10/27 20:34:11 << 354  Go ahead b6sm267117pfv.171 - gsmtp<EOL>
+21/10/27 20:34:11 >> Date: Wed, 27 Oct 2021 20:34:11 +0530<EOL>
+21/10/27 20:34:11 >> To: venkatguy19@gmail.com<EOL>
+21/10/27 20:34:11 >> Subject: Test Email<EOL>
+21/10/27 20:34:11 >> From: venkatcrs19@gmail.com<EOL>
+21/10/27 20:34:11 >> <EOL>
+21/10/27 20:34:11 >> Hi this is a test email send by a php script<EOL>
+21/10/27 20:34:11 >> .<EOL>
+21/10/27 20:34:13 << 250 2.0.0 OK  1635347053 b6sm267117pfv.171 - gsmtp<EOL>
+21/10/27 20:34:13 >> QUIT<EOL>
+21/10/27 20:34:13 << 221 2.0.0 closing connection b6sm267117pfv.171 - gsmtp<EOL>
+21/10/27 20:34:13 ** Disconnected.
+21/10/27 20:34:13 ** Disconnected.
+21/10/27 20:34:13 ** Disconnected.
+21/10/27 20:34:50 ** --- MESSAGE BEGIN ---
+21/10/27 20:34:50 ** To: venkatguy19@gmail.com
+21/10/27 20:34:50 ** Subject: Test Email
+21/10/27 20:34:50 ** From: venkatcrs19@gmail.com
+21/10/27 20:34:50 ** 
+21/10/27 20:34:50 ** Hi this is a test email send by a php script
+21/10/27 20:34:50 ** --- MESSAGE END ---
+21/10/27 20:34:51 ** Connecting to smtp.gmail.com:587
+21/10/27 20:34:51 ** Connected.
+21/10/27 20:34:51 << 220 smtp.gmail.com ESMTP b8sm263288pfi.103 - gsmtp<EOL>
+21/10/27 20:34:51 >> EHLO Venkat-PC<EOL>
+21/10/27 20:34:51 << 250-smtp.gmail.com at your service, [157.49.77.240]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/10/27 20:34:51 ** Authenticating as venkatcrs19@gmail.com
+21/10/27 20:34:51 >> STARTTLS<EOL>
+21/10/27 20:34:52 << 220 2.0.0 Ready to start TLS<EOL>
+21/10/27 20:34:52 >> EHLO Venkat-PC<EOL>
+21/10/27 20:34:52 << 250-smtp.gmail.com at your service, [157.49.77.240]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/10/27 20:34:52 >> AUTH LOGIN<EOL>
+21/10/27 20:34:52 << 334 VXNlcm5hbWU6<EOL>
+21/10/27 20:34:52 >> dmVua2F0Y3JzMTlAZ21haWwuY29t<EOL>
+21/10/27 20:34:53 << 334 UGFzc3dvcmQ6<EOL>
+21/10/27 20:34:53 >> c2FyYXZhbmFuMDE=<EOL>
+21/10/27 20:34:54 << 235 2.7.0 Accepted<EOL>
+21/10/27 20:34:54 >> MAIL FROM: <venkatguy97@gmail.com><EOL>
+21/10/27 20:34:54 << 250 2.1.0 OK b8sm263288pfi.103 - gsmtp<EOL>
+21/10/27 20:34:54 >> RCPT TO: <venkatguy19@gmail.com><EOL>
+21/10/27 20:34:55 << 250 2.1.5 OK b8sm263288pfi.103 - gsmtp<EOL>
+21/10/27 20:34:55 >> DATA<EOL>
+21/10/27 20:34:55 << 354  Go ahead b8sm263288pfi.103 - gsmtp<EOL>
+21/10/27 20:34:56 >> Date: Wed, 27 Oct 2021 20:34:55 +0530<EOL>
+21/10/27 20:34:56 >> To: venkatguy19@gmail.com<EOL>
+21/10/27 20:34:56 >> Subject: Test Email<EOL>
+21/10/27 20:34:56 >> From: venkatcrs19@gmail.com<EOL>
+21/10/27 20:34:56 >> <EOL>
+21/10/27 20:34:56 >> Hi this is a test email send by a php script<EOL>
+21/10/27 20:34:56 >> .<EOL>
+21/10/27 20:34:56 << 250 2.0.0 OK  1635347097 b8sm263288pfi.103 - gsmtp<EOL>
+21/10/27 20:34:56 >> QUIT<EOL>
+21/10/27 20:34:57 << 221 2.0.0 closing connection b8sm263288pfi.103 - gsmtp<EOL>
+21/10/27 20:34:57 ** Disconnected.
+21/10/27 20:34:57 ** Disconnected.
+21/10/27 20:34:57 ** Disconnected.
+21/10/27 20:35:30 ** --- MESSAGE BEGIN ---
+21/10/27 20:35:30 ** To: venkatguy97@gmail.com
+21/10/27 20:35:30 ** Subject: Test Email
+21/10/27 20:35:30 ** From: venkatcrs19@gmail.com
+21/10/27 20:35:30 ** 
+21/10/27 20:35:30 ** Hi this is a test email send by a php script
+21/10/27 20:35:30 ** --- MESSAGE END ---
+21/10/27 20:35:31 ** Connecting to smtp.gmail.com:587
+21/10/27 20:35:31 ** Connected.
+21/10/27 20:35:31 << 220 smtp.gmail.com ESMTP p16sm308487pfh.97 - gsmtp<EOL>
+21/10/27 20:35:31 >> EHLO Venkat-PC<EOL>
+21/10/27 20:35:32 << 250-smtp.gmail.com at your service, [157.49.77.240]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/10/27 20:35:32 ** Authenticating as venkatcrs19@gmail.com
+21/10/27 20:35:32 >> STARTTLS<EOL>
+21/10/27 20:35:32 << 220 2.0.0 Ready to start TLS<EOL>
+21/10/27 20:35:32 >> EHLO Venkat-PC<EOL>
+21/10/27 20:35:32 << 250-smtp.gmail.com at your service, [157.49.77.240]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/10/27 20:35:32 >> AUTH LOGIN<EOL>
+21/10/27 20:35:33 << 334 VXNlcm5hbWU6<EOL>
+21/10/27 20:35:33 >> dmVua2F0Y3JzMTlAZ21haWwuY29t<EOL>
+21/10/27 20:35:33 << 334 UGFzc3dvcmQ6<EOL>
+21/10/27 20:35:33 >> c2FyYXZhbmFuMDE=<EOL>
+21/10/27 20:35:34 << 235 2.7.0 Accepted<EOL>
+21/10/27 20:35:34 >> MAIL FROM: <venkatguy97@gmail.com><EOL>
+21/10/27 20:35:34 << 250 2.1.0 OK p16sm308487pfh.97 - gsmtp<EOL>
+21/10/27 20:35:34 >> RCPT TO: <venkatguy97@gmail.com><EOL>
+21/10/27 20:35:34 << 250 2.1.5 OK p16sm308487pfh.97 - gsmtp<EOL>
+21/10/27 20:35:34 >> DATA<EOL>
+21/10/27 20:35:34 << 354  Go ahead p16sm308487pfh.97 - gsmtp<EOL>
+21/10/27 20:35:34 >> Date: Wed, 27 Oct 2021 20:35:34 +0530<EOL>
+21/10/27 20:35:34 >> To: venkatguy97@gmail.com<EOL>
+21/10/27 20:35:34 >> Subject: Test Email<EOL>
+21/10/27 20:35:34 >> From: venkatcrs19@gmail.com<EOL>
+21/10/27 20:35:34 >> <EOL>
+21/10/27 20:35:34 >> Hi this is a test email send by a php script<EOL>
+21/10/27 20:35:34 >> .<EOL>
+21/10/27 20:35:35 << 250 2.0.0 OK  1635347136 p16sm308487pfh.97 - gsmtp<EOL>
+21/10/27 20:35:35 >> QUIT<EOL>
+21/10/27 20:35:35 << 221 2.0.0 closing connection p16sm308487pfh.97 - gsmtp<EOL>
+21/10/27 20:35:35 ** Disconnected.
+21/10/27 20:35:35 ** Disconnected.
+21/10/27 20:35:35 ** Disconnected.
+21/10/27 20:37:56 ** --- MESSAGE BEGIN ---
+21/10/27 20:37:56 ** To: venkatguy97@gmail.com
+21/10/27 20:37:56 ** Subject: Test Email
+21/10/27 20:37:56 ** From: venkatcrs19@gmail.com
+21/10/27 20:37:56 ** 
+21/10/27 20:37:56 ** Hi this is a test email send by a php script
+21/10/27 20:37:56 ** --- MESSAGE END ---
+21/10/27 20:37:56 ** Connecting to smtp.gmail.com:587
+21/10/27 20:37:57 ** Connected.
+21/10/27 20:37:58 << 220 smtp.gmail.com ESMTP om13sm5019482pjb.12 - gsmtp<EOL>
+21/10/27 20:37:58 >> EHLO Venkat-PC<EOL>
+21/10/27 20:37:58 << 250-smtp.gmail.com at your service, [157.49.77.240]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/10/27 20:37:58 ** Authenticating as venkatcrs19@gmail.com
+21/10/27 20:37:58 >> STARTTLS<EOL>
+21/10/27 20:37:59 << 220 2.0.0 Ready to start TLS<EOL>
+21/10/27 20:37:59 >> EHLO Venkat-PC<EOL>
+21/10/27 20:37:59 << 250-smtp.gmail.com at your service, [157.49.77.240]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/10/27 20:37:59 >> AUTH LOGIN<EOL>
+21/10/27 20:37:59 << 334 VXNlcm5hbWU6<EOL>
+21/10/27 20:37:59 >> dmVua2F0Y3JzMTlAZ21haWwuY29t<EOL>
+21/10/27 20:38:00 << 334 UGFzc3dvcmQ6<EOL>
+21/10/27 20:38:00 >> c2FyYXZhbmFuMDE=<EOL>
+21/10/27 20:38:01 << 235 2.7.0 Accepted<EOL>
+21/10/27 20:38:01 >> MAIL FROM: <venkatguy97@gmail.com><EOL>
+21/10/27 20:38:03 << 250 2.1.0 OK om13sm5019482pjb.12 - gsmtp<EOL>
+21/10/27 20:38:03 >> RCPT TO: <venkatguy97@gmail.com><EOL>
+21/10/27 20:38:03 << 250 2.1.5 OK om13sm5019482pjb.12 - gsmtp<EOL>
+21/10/27 20:38:03 >> DATA<EOL>
+21/10/27 20:38:05 << 354  Go ahead om13sm5019482pjb.12 - gsmtp<EOL>
+21/10/27 20:38:05 >> Date: Wed, 27 Oct 2021 20:38:05 +0530<EOL>
+21/10/27 20:38:05 >> To: venkatguy97@gmail.com<EOL>
+21/10/27 20:38:05 >> Subject: Test Email<EOL>
+21/10/27 20:38:05 >> From: venkatcrs19@gmail.com<EOL>
+21/10/27 20:38:05 >> <EOL>
+21/10/27 20:38:05 >> Hi this is a test email send by a php script<EOL>
+21/10/27 20:38:05 >> .<EOL>
+21/10/27 20:38:06 << 250 2.0.0 OK  1635347286 om13sm5019482pjb.12 - gsmtp<EOL>
+21/10/27 20:38:06 >> QUIT<EOL>
+21/10/27 20:38:06 << 221 2.0.0 closing connection om13sm5019482pjb.12 - gsmtp<EOL>
+21/10/27 20:38:06 ** Disconnected.
+21/10/27 20:38:06 ** Disconnected.
+21/10/27 20:38:06 ** Disconnected.
+21/10/27 20:52:47 ** --- MESSAGE BEGIN ---
+21/10/27 20:52:47 ** To: venkatguy97@gmail.com
+21/10/27 20:52:47 ** Subject: OTP Email
+21/10/27 20:52:47 ** From: venkatcrs19@gmail.com
+21/10/27 20:52:47 ** 
+21/10/27 20:52:47 ** Hi this is a SECRET KEY email send by a SERVER 771
+21/10/27 20:52:47 ** --- MESSAGE END ---
+21/10/27 20:52:47 ** Connecting to smtp.gmail.com:587
+21/10/27 20:52:48 ** Connected.
+21/10/27 20:52:48 << 220 smtp.gmail.com ESMTP a135sm320484pfd.96 - gsmtp<EOL>
+21/10/27 20:52:48 >> EHLO Venkat-PC<EOL>
+21/10/27 20:52:48 << 250-smtp.gmail.com at your service, [157.49.77.240]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/10/27 20:52:48 ** Authenticating as venkatcrs19@gmail.com
+21/10/27 20:52:48 >> STARTTLS<EOL>
+21/10/27 20:52:48 << 220 2.0.0 Ready to start TLS<EOL>
+21/10/27 20:52:48 >> EHLO Venkat-PC<EOL>
+21/10/27 20:52:49 << 250-smtp.gmail.com at your service, [157.49.77.240]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/10/27 20:52:49 >> AUTH LOGIN<EOL>
+21/10/27 20:52:49 << 334 VXNlcm5hbWU6<EOL>
+21/10/27 20:52:49 >> dmVua2F0Y3JzMTlAZ21haWwuY29t<EOL>
+21/10/27 20:52:49 << 334 UGFzc3dvcmQ6<EOL>
+21/10/27 20:52:49 >> c2FyYXZhbmFuMDE=<EOL>
+21/10/27 20:52:50 << 235 2.7.0 Accepted<EOL>
+21/10/27 20:52:50 >> MAIL FROM: <venkatguy97@gmail.com><EOL>
+21/10/27 20:52:50 << 250 2.1.0 OK a135sm320484pfd.96 - gsmtp<EOL>
+21/10/27 20:52:50 >> RCPT TO: <venkatguy97@gmail.com><EOL>
+21/10/27 20:52:50 << 250 2.1.5 OK a135sm320484pfd.96 - gsmtp<EOL>
+21/10/27 20:52:50 >> DATA<EOL>
+21/10/27 20:52:51 << 354  Go ahead a135sm320484pfd.96 - gsmtp<EOL>
+21/10/27 20:52:51 >> Date: Wed, 27 Oct 2021 20:52:51 +0530<EOL>
+21/10/27 20:52:51 >> To: venkatguy97@gmail.com<EOL>
+21/10/27 20:52:51 >> Subject: OTP Email<EOL>
+21/10/27 20:52:51 >> From: venkatcrs19@gmail.com<EOL>
+21/10/27 20:52:51 >> <EOL>
+21/10/27 20:52:51 >> Hi this is a SECRET KEY email send by a SERVER 771<EOL>
+21/10/27 20:52:51 >> .<EOL>
+21/10/27 20:52:52 << 250 2.0.0 OK  1635348172 a135sm320484pfd.96 - gsmtp<EOL>
+21/10/27 20:52:52 >> QUIT<EOL>
+21/10/27 20:52:52 << 221 2.0.0 closing connection a135sm320484pfd.96 - gsmtp<EOL>
+21/10/27 20:52:52 ** Disconnected.
+21/10/27 20:52:52 ** Disconnected.
+21/10/27 20:52:52 ** Disconnected.
+21/10/27 20:53:54 ** --- MESSAGE BEGIN ---
+21/10/27 20:53:54 ** To: venkatguy97@gmail.com
+21/10/27 20:53:54 ** Subject: OTP Email
+21/10/27 20:53:54 ** From: venkatcrs19@gmail.com
+21/10/27 20:53:54 ** 
+21/10/27 20:53:54 ** Hi this is a SECRET KEY email send by a SERVER: 147
+21/10/27 20:53:54 ** --- MESSAGE END ---
+21/10/27 20:53:54 ** Connecting to smtp.gmail.com:587
+21/10/27 20:53:55 ** Connected.
+21/10/27 20:53:55 << 220 smtp.gmail.com ESMTP r5sm457176pjg.17 - gsmtp<EOL>
+21/10/27 20:53:55 >> EHLO Venkat-PC<EOL>
+21/10/27 20:53:55 << 250-smtp.gmail.com at your service, [157.49.77.240]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/10/27 20:53:55 ** Authenticating as venkatcrs19@gmail.com
+21/10/27 20:53:55 >> STARTTLS<EOL>
+21/10/27 20:53:55 << 220 2.0.0 Ready to start TLS<EOL>
+21/10/27 20:53:55 >> EHLO Venkat-PC<EOL>
+21/10/27 20:53:56 << 250-smtp.gmail.com at your service, [157.49.77.240]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/10/27 20:53:56 >> AUTH LOGIN<EOL>
+21/10/27 20:53:56 << 334 VXNlcm5hbWU6<EOL>
+21/10/27 20:53:56 >> dmVua2F0Y3JzMTlAZ21haWwuY29t<EOL>
+21/10/27 20:53:56 << 334 UGFzc3dvcmQ6<EOL>
+21/10/27 20:53:56 >> c2FyYXZhbmFuMDE=<EOL>
+21/10/27 20:53:57 << 235 2.7.0 Accepted<EOL>
+21/10/27 20:53:57 >> MAIL FROM: <venkatguy97@gmail.com><EOL>
+21/10/27 20:53:57 << 250 2.1.0 OK r5sm457176pjg.17 - gsmtp<EOL>
+21/10/27 20:53:57 >> RCPT TO: <venkatguy97@gmail.com><EOL>
+21/10/27 20:53:58 << 250 2.1.5 OK r5sm457176pjg.17 - gsmtp<EOL>
+21/10/27 20:53:58 >> DATA<EOL>
+21/10/27 20:53:58 << 354  Go ahead r5sm457176pjg.17 - gsmtp<EOL>
+21/10/27 20:53:58 >> Date: Wed, 27 Oct 2021 20:53:58 +0530<EOL>
+21/10/27 20:53:58 >> To: venkatguy97@gmail.com<EOL>
+21/10/27 20:53:58 >> Subject: OTP Email<EOL>
+21/10/27 20:53:58 >> From: venkatcrs19@gmail.com<EOL>
+21/10/27 20:53:58 >> <EOL>
+21/10/27 20:53:58 >> Hi this is a SECRET KEY email send by a SERVER: 147<EOL>
+21/10/27 20:53:58 >> .<EOL>
+21/10/27 20:53:59 << 250 2.0.0 OK  1635348239 r5sm457176pjg.17 - gsmtp<EOL>
+21/10/27 20:53:59 >> QUIT<EOL>
+21/10/27 20:53:59 << 221 2.0.0 closing connection r5sm457176pjg.17 - gsmtp<EOL>
+21/10/27 20:53:59 ** Disconnected.
+21/10/27 20:53:59 ** Disconnected.
+21/10/27 20:53:59 ** Disconnected.

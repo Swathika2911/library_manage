@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+body
+{
+	margin: 0px;
+	background: url(../images/body.png) #FFFFFF;
+	color:#FFFFFF;
+	
+}
+.total
+{
+	margin: 0px auto;
+	padding: 0px;
+	width: 900px;	
+	background: #004185;
+	color:#FFFFFF;
+}
+.table2
+{
+	border-top: #FFFFFF solid 3px;
+}
+.menu
+{
+	line-height: 16px;
+	float:right;
+	padding-top:25px;
+	padding-bottom:25px;
+	padding-right:25px;
+	color:#FFFFFF;
+}
+.menu a
+{
+	padding: 25px 35px 25px 35px;
+	text-align:center;
+	text-decoration:none;
+	color:#FFFFFF;
+	font-weight:bolder;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	line-height: 16px;
+}
+.menu a:hover
+{
+	padding: 25px 35px 25px 35px;
+	text-align:center;
+	text-decoration:none;
+	color:#FDB918;
+	font-weight:bolder;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:16px;
+	text-align:center;
+	line-height: 16px;	
+	text-shadow: 3px 1px 0px #000000;
+}
+.btn {
+	background:#333333 right top;
+	min-width:100px;
+	min-height:30px;
+	color: #FFFFFF;
+	font-weight:bolder;
+	font-size:16px;
+	font-family:"Courier New", Courier, monospace;
+	Border-top-left-radius: 5px 5px;
+	Border-top-right-radius: 5px 5px;
+	Border-bottom-left-radius: 5px 5px;
+	Border-bottom-right-radius: 5px 5px;
+	border:2px outset #000000;
+
+}
+.btn:focus, 
+.btn:active,
+.btn.active,
+.btn.disabled,
+.btn[disabled] {
+	background:#666666 right top;
+	min-width:100px;
+	min-height:30px;
+	color: #000000;
+	font-weight:bolder;
+	font-size:16px;
+	font-family:"Courier New", Courier, monospace;
+	Border-top-left-radius: 5px 5px;
+	Border-top-right-radius: 5px 5px;
+	Border-bottom-left-radius: 5px 5px;
+	Border-bottom-right-radius: 5px 5px;
+	border:2px inset #000000;
+}
+
+select,
+textarea,
+input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"],
+.uneditable-input{
+	min-height:20px;
+	min-width:170px;	
+	display: inline-block;
+	margin-bottom: 10px;
+	vertical-align: middle;
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+	color:#000000;
+	font-weight:bold;
+	background:#CCCCCC;
+}
